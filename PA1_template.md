@@ -1,9 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Mia Eden"
-date: "January 16, 2019"
 output: 
-  html_document: 
+  html_document:
     keep_md: true
 ---
 
