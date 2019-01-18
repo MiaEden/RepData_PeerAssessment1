@@ -1,7 +1,7 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"  
-author: "Mia Eden"
-date: "January 17, 2019"
+## "Reproducible Research: Peer Assessment 1"  
+#### by "Mia Eden"  
+##### "January 17, 2019"  
 output: 
   html_document:
     keep_md: true
