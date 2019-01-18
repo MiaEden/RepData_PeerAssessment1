@@ -1,12 +1,8 @@
----
-output: 
-  html_document: 
-    keep_md: yes
----
 
-## Reproducible Research: Peer Assessment 1 
-### Author: Mia Eden
-#### Date: 01/17/19
+
+## "Reproducible Research: Peer Assessment 1"  
+### Mia Eden
+#### 01/17/19
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
