@@ -4,7 +4,7 @@ author: "Mia Eden"
 date: "January 16, 2019"
 output: 
   html_document: 
-    keep_md: yes
+    keep_md: true
 ---
 
 
